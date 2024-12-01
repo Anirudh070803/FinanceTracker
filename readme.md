@@ -1,4 +1,4 @@
-Here’s a descriptive README file for your MERN stack project:
+
 
 ---
 
