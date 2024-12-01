@@ -112,9 +112,6 @@ Make sure you have the following installed on your system:
 3. Start the frontend React app.
 4. Open a browser and go to `http://localhost:3000` to use the Task Management System.
 
-## Demo
-
-(Optional) Include screenshots or a short demo video to showcase the app's functionality.
 
 ## Contribution
 
